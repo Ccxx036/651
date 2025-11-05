@@ -1,0 +1,259 @@
+Call Time & Date,Call Length (seconds),Transcript of Complaints,Neighborhood,Caller Phone Number
+03/25/2023 10:15 AM,45,"There's graffiti all over the playground equipment at the park. It's an eyesore. Can someone clean this up?",Sunnyside,(555) 421-0098
+03/25/2023 11:30 AM,30,"Hello again, it's still noisy at night from the bar on Main St. Can't sleep!"  ,Downtown,(555) 213-8754
+03/25/2023 02:45 PM,60,"Hi, this is my third call this month about the potholes on Elm Street. It's dangerous for the cars and needs fixing.",Westwood,(555) 367-9922
+03/25/2023 03:20 PM,90,"I'm calling to report a fallen tree blocking the sidewalk on my street. This needs to be cleared up soon, please.",Arbor Heights,(555) 787-0911
+03/26/2023 09:00 AM,25,"The streetlight is out on the corner of 5th and Oak. It's very dark at night." ,Eastview,(555) 654-5587
+03/26/2023 01:15 PM,120,"There is a group of teenagers who have been making a ton of noise after midnight around Pinecrest Road. I’ve asked them to keep it down, but it’s not helping.",Pinecrest,(555) 421-0098
+03/26/2023 04:00 PM,35,"More vandalism at the park. They've sprayed graffiti over the new murals now. When will this stop?",Sunnyside,(555) 213-8754
+03/27/2023 10:35 AM,55,"It's about the noise from the construction site by my house on 3rd Ave. They start too early in the morning. Isn’t there a noise ordinance?",Downtown,(555) 367-9922
+03/27/2023 02:10 PM,80,"The potholes, remember? Elm Street. Right by the school. It's becoming a hazard to the school buses. Please, send someone to fix it.",Westwood,(555) 787-0911
+03/27/2023 05:50 PM,110,"Yes, this is Jane from Arbor Heights. The street repairs on Main have been pending for weeks. The signs are up, but no work is being done. What’s the delay?",Arbor Heights,(555) 654-5587
+03/28/2023 08:30 AM,40,"I've called before about the stray dogs in the neighborhood. They're knocking over trash bins. It's a real mess every morning. Can animal control come by?",Maple Grove,(555) 421-0098
+03/28/2023 12:45 PM,70,"The new art installation downtown is constantly being defaced. It's such a shame. Can we get more patrols in the area?",Downtown,(555) 213-8754
+03/28/2023 07:20 PM,50,"There’s a loud party on Larchmont Drive. They have been at it since noon. Isn't there a limit to how loud you can be?",Eastview,(555) 367-9922
+03/29/2023 09:45 AM,95,"I'm tired of repeating myself. The sidewalks in our neighborhood are cracked and it's a trip hazard, especially on Oak Lane. When will the city address this?",Arbor Heights,(555) 787-0911
+03/29/2023 03:15 PM,60,"The traffic lights at the intersection of Central and 8th aren’t working properly. It’s causing confusion. Someone needs to fix this ASAP.",Arbor Heights,(555) 654-5587
+03/29/2023 04:20 PM,140,"Once more, this is Alice from Westwood, and the potholes are now more like craters on Willow Drive. It's just unacceptable and unsafe for the kids biking around.",Westwood,(555) 398-7741
+03/29/2023 08:15 PM,45,"Hey, it's loud music blasting from the pub on 2nd Street. This happens every other night. Something needs to be done."                                ,Downtown,(555) 452-8899
+03/29/2023 09:35 PM,65,"This is the fifth time I'm reporting loud teenagers in the alley by the gas station. It's way past 9 PM. Please help."                                ,Maple Grove,(555) 489-3592
+03/29/2023 10:50 PM,30,"Some car alarms have been going off for the last hour here on Lakeside. It's incredibly disruptive."                                                   ,Lakeside,(555) 321-5678
+03/29/2023 11:30 PM,70,"Okay, it's now every night. The noise from the night market on Vineyard is too much. Who permits these things?"                                        ,Eastview,(555) 678-9012
+03/30/2023 12:15 AM,155,"I'm calling yet again about the vandalism at the community center on Park Ave. They've now ruined the entire wall mural dedicated to local heroes. We need surveillance cameras or something to stop this.",Sunnyside,(555) 901-2345
+03/30/2023 12:45 AM,100,"It's loud parties every night this week at the frat house on Elm. We've got work in the morning, and this is not acceptable. Can the police patrol here at night?",Westwood,(555) 654-3210
+03/30/2023 08:10 AM,50,"Hi, reporting a new pothole that opened up just outside the school gate on Maple Ave in Westwood. It's pretty big, and someone will get hurt if not fixed soon.",Westwood,(555) 778-9654
+03/30/2023 09:45 AM,80,"There's more tagging on the benches at Oakwood park. We need to get this cleaned and maybe look into preventative measures."                           ,Oakwood,(555) 334-5566
+03/30/2023 10:30 AM,35,"Pothole alert on Cedar Road, Westwood. Can we get some regular maintenance here?"                                                                      ,Westwood,(555) 112-2334
+03/30/2023 01:50 PM,75,"It's Dave from Pinecrest again. The potholes are not getting any better. We need repairs on Rose Avenue before cars start to get damaged. What are my tax dollars going to?",Pinecrest,(555) 421-0098
+03/30/2023 03:15 PM,180,"This vandalism is beyond tolerable. Our neighborhood signs have been defaced beyond recognition. This is a daily occurrence now. What is being done to find these individuals?",Arbor Heights,(555) 897-4563
+03/30/2023 07:20 PM,40,"There's a sinkhole forming on Birch Street in Westwood. It's not safe, and kids play around that area. Please address this asap."                      ,Westwood,(555) 456-7890
+03/30/2023 08:30 PM,55,"Bass thumping from a house party on Grove Street is rattling my windows. It's not even the weekend yet!"                                               ,Maple Grove,(555) 654-0987
+03/30/2023 09:45 PM,110,"The noise from the construction at night on 5th is unbearable. I know the city has noise regulations, and they're clearly being violated. Please, send someone to enforce the noise code.",Downtown,(555) 234-5678
+03/30/2023 11:55 PM,95,"Another sleepless night thanks to the bars on Waterfront. I'm considering moving at this point if the city can't manage noise control."                ,Lakeside,(555) 987-6543
+03/31/2023 08:05 AM,120,"Morning, this is Samantha from Sunnyside. The statue at Central Square has been spray-painted with graffiti. This is a repeat incident. It's a disgrace and disheartening for all of us who work to keep our community clean.",Sunnyside,(555) 213-8754
+03/31/2023 10:22 AM,130,"I need to report the condition of the public library walls in Oakwood. Vandals have covered it with graffiti. This is where our children come to learn, and the visual environment is important. We need a cleanup crew and possibly a watch guard.",Oakwood,(555) 543-2109
+03/31/2023 12:50 PM,60,"Hey, we need some help with the potholes on Larch Street in Westwood. They're multiplying like rabbits. It's high time for some action from the city council.",Westwood,(555) 369-2587
+03/31/2023 11:10 PM,50,"It's ridiculous how loud the cars are zooming down the street here in Pinecrest. It’s late, and they're disturbing the peace. Can't we have speed bumps or something?",Pinecrest,(555) 654-7890
+"04/01/2023 07:45 AM",60,"It's Paul from Westwood. A pothole near the intersection of Oak and Pine has been getting worse. Please address it.",Westwood,"(555) 748-8512"
+"04/01/2023 08:10 AM",110,"I’m tired of the graffiti on the underpass near Elm Street. It's an eyesore. When will the city clean this up?",Maple Grove,"(555) 622-4173"
+"04/01/2023 09:25 AM",35,"The playground in Arbor Heights Park is covered in graffiti. Can we get a cleanup team here?",Arbor Heights,"(555) 368-4422"
+"04/01/2023 10:05 AM",45,"Excessive noise from street performers in Central Plaza is disrupting our business. They're here every day.",Downtown,"(555) 739-2551"
+"04/01/2023 11:40 AM",90,"There's vandalism at the bus stop on Main and 3rd. It's becoming a regular thing now.",Lakeside,"(555) 284-9371"
+"04/01/2023 12:20 PM",120,"Every morning there's more trash and graffiti at the Lakeside Pavilion. We need regular patrols or cameras.",Lakeside,"(555) 593-8476"
+"04/01/2023 01:55 PM",75,"Hello, this is Jerry, and the noise from the new construction site on 7th has been nonstop, even early in the morning.",Pinecrest,"(555) 948-2332"
+"04/01/2023 02:20 PM",65,"There’s a large pothole on 3rd Street, just before the roundabout in Westwood. It's dangerous.",Westwood,"(555) 847-3651"
+"04/01/2023 03:15 PM",130,"The noise from the ongoing street festival is unbearable. Isn't there a decibel limit?",Eastview,"(555) 742-9985"
+"04/01/2023 04:45 PM",55,"I want to report illegally dumped trash in the alley behind Pike Street. It's attracting pests.",Oakwood,"(555) 192-8374"
+"04/01/2023 05:50 PM",70,"Street repairs on 5th have been going on for weeks. The noise is constant. When will it end?",Downtown,"(555) 321-7654"
+"04/01/2023 07:30 PM",80,"My name's Eric from Westwood, reporting a new pothole on Cedar that appeared after the rain last night.",Westwood,"(555) 678-4321"
+"04/01/2023 08:45 PM",190,"The mural at Jefferson High was defaced with graffiti. It's a piece of community art and deserves respect.",Sunnyside,"(555) 832-5467"
+"04/01/2023 09:35 PM",105,"It's chaos on Bridge Street with car horns and people shouting at all hours. Please, can we have some enforcement here?",Downtown,"(555) 983-2345"
+"04/01/2023 10:10 PM",150,"The basketball court lights in Eastview Park are broken again. The area's pitch black and unsafe at night.",Eastview,"(555) 624-8261"
+"04/03/2023 09:10 PM",85,"Excessive noise again from the concert hall in Downtown. This needs to be addressed.",Downtown,"(555) 654-7821"
+"04/03/2023 09:55 PM",50,"Loud parties every weekend at this address on Pine Street. It's disturbing the peace.",Lakeside,"(555) 283-8264"
+"04/03/2023 10:40 PM",90,"Graffiti on the overpass is worse each day. When will the city clean this mess?",Westwood,"(555) 677-9482"
+"04/03/2023 11:15 PM",130,"The dogs barking at night from the neighbor's yard are too much to handle. It's past 11 PM.",Oakwood,"(555) 729-3784"
+"04/10/2023 08:00 AM",45,"Pothole on Maple Avenue is causing traffic delays every morning. Please fix it.",Westwood,"(555) 222-3344"
+"04/10/2023 08:30 AM",110,"Vandalism at the community garden has ruined months of hard work. We need security.",Maple Grove,"(555) 898-3658"
+"04/10/2023 09:00 AM",55,"Every night there's noise coming from the pub on Rose Ave. Isn't there a noise ordinance?",Pinecrest,"(555) 123-9876"
+"04/10/2023 09:30 AM",75,"Street lights out on Oak, between 2nd and 3rd. It's pitch dark at night and feels unsafe.",Westwood,"(555) 555-6879"
+"04/15/2023 10:30 PM",60,"The noise from the house party on Elm is unbearable. Can't the city enforce noise control?",Maple Grove,"(555) 478-9261"
+"04/15/2023 10:45 PM",180,"Graffiti all over the new park benches in Sunnyside Park. Can we have patrols to prevent this?",Sunnyside,"(555) 837-2645"
+04/16/2023 08:12 AM,45,"This is Bob from Westwood. Just wanted to let you know the pothole on Maple Street is getting really bad.",Westwood,(555) 823-1122
+04/16/2023 08:45 AM,120,"Good morning, I'm calling about the graffiti that keeps showing up on my shop's wall on Birch Avenue. This is the third time I'm reporting it.",Maple Grove,(555) 329-4422
+04/16/2023 09:20 AM,30,"There's a broken swing at the playground in Arbor Heights, can we get someone to look at it?",Arbor Heights,(555) 478-9223
+04/16/2023 09:58 AM,60,"Hi, the streetlights on Oak Street haven't been working for a week now. It's very dark in the evenings.",Westwood,(555) 945-7254
+04/16/2023 10:37 AM,35,"I want to report a stray dog wandering around Downtown, looks lost.",Downtown,(555) 324-6342
+04/16/2023 11:15 AM,80,"This graffiti is out of hand. There's new paint on the library wall every morning. What is being done?",Lakeside,(555) 291-2275
+04/16/2023 12:42 PM,55,"The noise from the construction site on 5th is starting way too early. It's waking up the whole neighborhood!",Pinecrest,(555) 726-9384
+04/16/2023 01:08 PM,50,"Someone dumped a couch near the Westwood roundabout. It's blocking the pavement.",Westwood,(555) 419-3765
+04/16/2023 02:33 PM,90,"Hey, it's Janet from Eastview. The kids are playing their music too loud in the park again.",Eastview,(555) 810-6657
+04/16/2023 03:14 PM,40,"I've noticed some signs of vandalism at the old factory. There are broken windows and graffiti.",Oakwood,(555) 690-5526
+04/16/2023 04:56 PM,70,"The noise from the bar on Pine Street is out of control. Can't we enforce the noise laws?",Lakeside,(555) 284-9331
+04/16/2023 05:22 PM,25,"I tripped over a cracked pavement on 3rd. Can we get this fixed before someone gets hurt?",Downtown,(555) 912-5263
+04/16/2023 06:10 PM,110,"There's been an ongoing issue with cars speeding down Elm Street. We need speed bumps or something!",Maple Grove,(555) 776-5432
+04/16/2023 07:45 PM,100,"This is Steve. The lights in our park in Sunnyside are still not working. It's really dark at night.",Sunnyside,(555) 658-9922
+04/16/2023 08:59 PM,160,"The bands playing at the square are way too loud. My windows are shaking. This can't be legal.",Eastview,(555) 948-8392
+04/19/2023 09:22 PM,105,"Why is there always so much noise coming from the corner of 8th and Main? There needs to be a patrol here.",Downtown,(555) 849-2245
+04/19/2023 09:55 PM,90,"Every night, there are dogs barking nonstop on Spruce Avenue. Someone needs to address this.",Pinecrest,(555) 558-3321
+04/19/2023 10:38 PM,130,"Graffiti artists hit the new mural downtown again. It's a disgrace. We need security cameras.",Downtown,(555) 922-8423
+04/19/2023 11:47 PM,150,"The parties on Lakeview Terrace are loud and getting out of hand. It's past midnight!",Lakeside,(555) 358-2649
+04/22/2023 08:30 AM,60,"Massive pothole opened up on Main right in front of the post office. It's causing traffic issues.",Westwood,(555) 922-7754
+04/22/2023 09:05 AM,35,"There's been some vandalism at the new community center. Someone should look into it.",Maple Grove,(555) 629-2277
+04/22/2023 09:50 AM,45,"The noise from overnight deliveries at the supermarket is too much. They're banging carts at 4 AM.",Pinecrest,(555) 828-9912
+04/22/2023 10:20 AM,55,"Street lights are still out on Oak. I've reported this twice already. It's unsafe.",Westwood,(555) 228-6665
+04/25/2023 10:15 PM,75,"This noise from the student houses on Birch is ridiculous. It's a weeknight!",Maple Grove,(555) 844-2553
+04/25/2023 10:40 PM,180,"Someone's tagged the entire side of the underpass with graffiti. It looks terrible.",Sunnyside,(555) 394-7766
+04/16/2023 10:25 AM,105,"There's been another incident of vandalism at the park. This time they've broken the benches.",Oakwood,(555) 322-7645
+04/16/2023 10:35 AM,200,"The graffiti is getting worse here. It's everywhere - on walls, sidewalks, even trees now!",Maple Grove,(555) 421-0778
+04/16/2023 10:48 AM,65,"Hey, it's Linda from Sunnyside again. The street repair crew left a mess on our street.",Sunnyside,(555) 619-9087
+04/16/2023 11:03 AM,60,"I'm calling about the noise from the night club on 5th. It's unbearable.",Downtown,(555) 826-9211
+04/16/2023 11:25 AM,75,"There's a pothole on Cedar that's nearly swallowed my tire this morning. When will it be fixed?",Westwood,(555) 917-2048
+04/16/2023 11:42 AM,85,"I've just seen someone spray painting a wall near the library. Can someone do something about this?",Lakeside,(555) 237-9983
+04/16/2023 12:10 PM,40,"This is Mr. Thomson from Oakwood. The noise from the main road is too loud. Can't we get better soundproofing?",Oakwood,(555) 764-5522
+04/16/2023 12:30 PM,120,"My name's Sarah, and I want to complain about the ongoing street repairs on Main St. They're taking forever.",Pinecrest,(555) 893-5611
+04/16/2023 12:50 PM,110,"The vandalism in the underpass is getting out of hand. It's a safety hazard now.",Eastview,(555) 628-9451
+04/16/2023 01:05 PM,90,"Can you send someone to clean up the graffiti at the bus stop on Elm? It's very offensive.",Lakeside,(555) 748-9122
+04/16/2023 01:20 PM,50,"There are too many potholes on Pine Avenue. It's like an obstacle course driving down that road.",Westwood,(555) 834-9832
+04/16/2023 01:35 PM,45,"The streetlights near the roundabout are still not fixed. It's been weeks!",Westwood,(555) 876-2554
+04/16/2023 01:45 PM,130,"This is the fourth time I'm reporting loud music from the apartment above me. It's past 10 PM now!",Downtown,(555) 893-6722
+04/16/2023 02:10 PM,70,"There's a sinkhole developing on Rose Street. Who do I talk to about this?",Pinecrest,(555) 944-2229
+04/16/2023 02:25 PM,160,"The graffiti on the side of our building is becoming a regular occurrence. We need surveillance.",Maple Grove,(555) 377-1112
+04/16/2023 02:50 PM,35,"The noise from the street performers is too loud. I can't concentrate on my work.",Downtown,(555) 492-8823
+04/16/2023 03:10 PM,55,"There's a new pothole on the intersection of 3rd and Maple, right by the traffic lights.",Westwood,(555) 285-8824
+04/16/2023 03:30 PM,80,"This vandalism has to stop! Someone's been tampering with the park fountains again.",Oakwood,(555) 629-9933
+04/16/2023 03:50 PM,95,"We need someone to address the graffiti that keeps appearing on the overpass walls.",Eastview,(555) 328-5512
+04/16/2023 04:05 PM,45,"I'd like to report excessive noise coming from the construction site at night. Isn't there a curfew for this?",Pinecrest,(555) 659-2342
+04/16/2023 04:20 PM,60,"Hey, the potholes on Birch are getting worse. Can we get some repairs?",Westwood,(555) 711-8425
+04/16/2023 04:40 PM,50,"I'm tired of the graffiti on our block. It's every week now.",Maple Grove,(555) 277-9931
+04/16/2023 05:05 PM,105,"The noise from the pub on Main is way over the top. People live here, you know!",Downtown,(555) 851-6678
+04/16/2023 05:20 PM,30,"Can someone fix the swings at Westwood park? They're broken again.",Westwood,(555) 885-9912
+04/16/2023 05:35 PM,140,"It's a disgrace, the amount of vandalism at the old mill. Can't we protect our landmarks?",Sunnyside,(555) 674-2238
+04/16/2023 05:55 PM,75,"This is an ongoing issue, but the graffiti on the Riverside Walk is still not cleaned up.",Lakeside,(555) 956-3341
+04/16/2023 06:15 PM,65,"The noise from the teenagers at the skate park is too much. They're there every evening.",Pinecrest,(555) 926-5647
+04/16/2023 06:35 PM,40,"Hi, the potholes on Elm Street are a real hazard for cyclists like me. When will they be filled?",Westwood
+04/17/2023 08:15 PM,130,"The street performers are back and louder than ever. This is becoming intolerable.",Downtown,(555) 952-1123
+04/17/2023 08:22 PM,75,"There’s a huge pothole right outside my driveway. It's the size of a small crater now.",Westwood,(555) 658-9923
+04/17/2023 08:45 PM,120,"This is Greg. The graffiti on our building was just cleaned and it’s already back!",Maple Grove,(555) 433-9921
+04/17/2023 08:55 PM,90,"Every night, the noise from the alley is just non-stop. Can't the patrols do something?",Downtown,(555) 224-7771
+04/17/2023 09:05 PM,180,"Hi, it's Jane from Oakwood. The vandalism at the community center is getting worse. They've smashed windows now.",Oakwood,(555) 788-3344
+04/17/2023 09:15 PM,80,"The potholes on Third are back. It's like they just fill them with hopes and dreams.",Westwood,(555) 392-2214
+04/17/2023 09:30 PM,95,"I can't sleep with this racket! The noise from the bar is well above legal limits, surely!",Downtown,(555) 282-9944
+04/17/2023 09:47 PM,60,"Just spotted some kids spray-painting the underpass. I think they saw me. Hurry!",Eastview,(555) 334-5589
+04/17/2023 10:10 PM,110,"I want to report a pothole on Maple that nearly caused an accident today.",Westwood,(555) 822-5555
+04/17/2023 10:30 PM,140,"This noise is absurd! It’s midnight and there’s a party on the rooftop across. Call the police!",Downtown,(555) 765-4321
+04/17/2023 10:45 PM,85,"It’s the same tag every time on the side of the old grocery store. Can we get cameras here?",Maple Grove,(555) 982-6677
+04/17/2023 11:05 PM,70,"Streetlights are out again on Birch Ave. It’s pitch black at night.",Pinecrest,(555) 233-5566
+04/17/2023 11:20 PM,130,"Excessive noise from street racers on the boulevard! It’s late and they’re revving engines like mad!",Downtown,(555) 666-7788
+04/17/2023 11:35 PM,90,"Graffiti artists have been at it again on the bridge over by the park.",Lakeside,(555) 779-8899
+04/17/2023 11:50 PM,65,"Another busted tire from the potholes on Pine. When will the city do something?",Westwood,(555) 808-7070
+04/18/2023 12:10 AM,40,"The playground equipment is vandalized again. The slide is all graffitied.",Sunnyside,(555) 909-9999
+04/18/2023 12:25 AM,50,"Too loud! Can't you enforce the noise ordinance on these late-night lawn parties?",Downtown,(555) 101-2020
+04/18/2023 12:40 AM,100,"I'm reporting a new tag of graffiti at the corner of 5th and Main. It’s covering the traffic signs.",Maple Grove,(555) 303-4040
+04/18/2023 01:00 AM,55,"Potholes, potholes, potholes! The ones on Oak Street are back with a vengeance!",Westwood,(555) 505-6060
+04/18/2023 08:30 AM,110,"Graffiti has just ruined the new mural on Main Street. Can you believe this?",Maple Grove,(555) 707-8080
+04/18/2023 08:45 AM,45,"The noise from the garbage trucks at 5 AM is too much. Isn't there a schedule for this?",Downtown,(555) 909-0101
+04/18/2023 09:05 AM,50,"Pothole alert on Cedar Ave. It's like a mini sinkhole.",Westwood,(555) 111-2323
+04/18/2023 09:25 AM,85,"The children's playground has been vandalized. Swings are broken and there's graffiti.",Sunnyside,(555) 222-3434
+04/18/2023 09:40 AM,65,"This graffiti is an eyesore on the community center. Can we get a cleanup crew?",Lakeside,(555) 333-4545
+04/18/2023 09:55 AM,95,"Can someone please come and fill the potholes on Maple Street? They're causing traffic issues.",Westwood,(555) 444-5656
+04/18/2023 10:15 AM,80,"It's a new day and yet another window has been smashed at the high school. Vandalism is out of control.",Oakwood,(555) 555-6767
+04/18/2023 10:30 AM,120,"Excessive noise from those construction machines has been going on since 6 AM. No warning was given!",Downtown,(555) 666-7878
+04/18/2023 10:45 AM,70,"I’m tired of repainting my fence. The graffiti here is relentless.",Maple Grove,(555) 777-8989
+04/18/2023 11:00 AM,45,"The street by the library is just pothole after pothole. It's like driving on the moon.",Westwood,(555) 888-9090
+04/18/2023 11:20 AM,110,"Can you please address the loud music coming from 10th Street? It's been hours.",Downtown,(555) 999-0202
+04/18/2023 11:35 AM,55,"My car is at the mechanic thanks to the potholes on River Road.",Westwood,(555) 010-1313
+04/18/2023 11:50 AM,75,"The graffiti on the underpass is spreading to private properties now.",Eastview,(555) 020-2424
+04/18/2023 12:05 PM,90,"Why are the potholes on Cherry Lane not fixed yet? They were marked weeks ago.",Westwood,(555) 030-3535
+04/18/2023 12:20 PM,60,"Someone has graffitied all over the new park benches.",Lakeside,(555) 040-4646
+04/18/2023 12:35 PM,105,"The noise from the new cafe's outdoor speakers is too loud. My entire house vibrates!",Downtown,(555) 050-5757
+04/18/2023 12:55 PM,130,"The potholes on Birch Street are now filled with water, and it's impossible to see them. It's a hazard!",Westwood,(555) 060-6868
+04/18/2023 01:10 PM,50,"Vandalism at the bus stop on Main has made it unsafe to sit while waiting.",Maple Grove,(555) 070-7979
+04/18/2023 01:25 PM,65,"There’s loud music coming from the car wash. Isn't there a decibel limit?",Downtown,(555) 080-8080
+04/18/2023 01:40 PM,80,"A huge pothole just popped my tire on Pinecrest Drive. This is the third time!",Westwood,(555) 090-9191
+04/18/2023 02:00 PM,110,"They've tagged the entire side of the supermarket overnight. It's awful.",Maple Grove,(555) 121-0202
+04/18/2023 02:20 PM,75,"The manhole cover on Elm Street is loose again. It clanks every time a car goes over it.",Pinecrest,(555) 131-2323
+04/18/2023 02:40 PM,40,"Can't we get more police patrols? There's constant vandalism in our alleyway.",Oakwood,(555) 141-2424
+04/18/2023 03:00 PM,100,"Pothole on Third and Main just took out my bike tire. Who can I speak to about this?",Westwood,(555) 151-2525
+04/18/2023 03:20 PM,70,"The wall by the train tracks is covered in graffiti again. It was just cleaned last month!",Lakeside,(555) 161-2626
+04/18/2023 03:40 PM,55,"The noise from the industrial fans at the warehouse is nonstop, even at night. It's too much.",Downtown,(555) 171-2727
+04/18/2023 04:00 PM,120,"I’ve just had to swerve to miss a pothole on Oak Avenue. When will these be filled?",Westwood,(555) 181-2828
+04/18/2023 04:20 PM,45,"There’s graffiti all over the children's playground. We need someone to clean this up.",Sunnyside,(555) 191-2929
+04/18/2023 04:40 PM,85,"The noise from the street festival is incredibly loud. Aren't there permits for this sort of thing?",Downtown,(555) 202-3030
+04/18/2023 05:00 PM,140,"Massive pothole on the corner of 8th and Willow. Nearly caused an accident.",Westwood,(555) 212-3131
+04/18/2023 05:15 PM,85,"Loud music is coming from the apartment block on Main Street, it's shaking my windows.",Downtown,(555) 222-3232
+04/18/2023 05:30 PM,50,"Graffiti on the side of the overpass is getting out of hand.",Eastview,(555) 232-3333
+04/18/2023 05:45 PM,95,"Someone's vandalized the public sculpture near the museum. Can you send someone?",Lakeside,(555) 242-3434
+04/18/2023 06:00 PM,110,"There's a huge pothole on Maple Avenue. My bike tire got caught in it.",Westwood,(555) 252-3535
+04/18/2023 06:15 PM,65,"The graffiti on our building was just painted over and now it's back. We need patrols here.",Maple Grove,(555) 262-3636
+04/18/2023 06:30 PM,70,"Every night the noise from the night club gets worse. Please do something.",Downtown,(555) 272-3737
+04/18/2023 06:45 PM,80,"The streetlights haven't been fixed and it's pitch dark on our street at night.",Pinecrest,(555) 282-3838
+04/18/2023 07:00 PM,105,"The potholes on Birch Street are like obstacles in a video game!",Westwood,(555) 292-3939
+04/18/2023 07:15 PM,120,"Someone has tagged the entire alleyway behind the grocery store.",Eastview,(555) 303-4040
+04/18/2023 07:30 PM,75,"The noise from the bar's outdoor seating is unbearable. We have early mornings!",Downtown,(555) 313-4141
+04/18/2023 07:45 PM,90,"The park benches and tables are all graffitied. It's not a good look for the town.",Lakeside,(555) 323-4242
+04/18/2023 08:00 PM,60,"The potholes are back on Cedar Avenue. I thought they were fixed last month.",Westwood,(555) 333-4343
+04/18/2023 08:15 PM,100,"There's a group of kids making a lot of noise in the park, it's very late for such a racket.",Oakwood,(555) 343-4444
+04/18/2023 08:30 PM,55,"These potholes on River Road are a hazard to cars and pedestrians alike.",Westwood,(555) 353-4545
+04/18/2023 08:45 PM,135,"I've caught someone spraying graffiti on my security cam. I have the footage ready for the authorities.",Maple Grove,(555) 363-4646
+04/18/2023 09:00 PM,110,"The constant noise from the dogs at the pet store is not letting my baby sleep. Can anything be done?",Downtown,(555) 373-4747
+04/18/2023 09:15 PM,45,"There's a street light out on Oak Street and it's very dark and unsafe.",Pinecrest,(555) 383-4848
+04/18/2023 09:30 PM,70,"The pothole situation on Main Street is ridiculous, I nearly twisted my ankle.",Westwood,(555) 393-4949
+04/18/2023 09:45 PM,65,"Graffiti on the front of the library is not the image we want to portray for our kids.",Lakeside,(555) 404-5050
+04/18/2023 10:00 PM,120,"There's a car parked outside blasting music. Can the police come and deal with this?",Downtown,(555) 414-5151
+04/18/2023 10:15 PM,50,"The new graffiti on the bridge makes the city look unkempt.",Eastview,(555) 424-5252
+04/18/2023 10:30 PM,85,"The playground is all vandalized. It's sad to see it in such a state.",Maple Grove,(555) 434-5353
+04/18/2023 10:45 PM,90,"There's a party going on across the street and the noise is too loud. It's past the noise curfew.",Downtown,(555) 444-5454
+04/18/2023 11:00 PM,55,"Can someone fix the potholes on Pine Street? It's causing traffic to swerve dangerously.",Westwood,(555) 454-5555
+04/18/2023 11:15 PM,130,"The vandalism at the community center is getting worse. Can we get security cameras?",Oakwood,(555) 464-5656
+04/18/2023 11:30 PM,75,"The noise from the street performers is way too loud. It echoes up to the 10th floor!",Downtown,(555) 474-5757
+04/18/2023 11:45 PM,110,"The graffiti along the riverside walk is covering the murals that were commissioned last year.",Eastview,(555) 484-5858
+04/18/2023 11:55 PM,90,"The street outside my window has been full of potholes for months, when will they be repaired?",Westwood,(555) 494-5959
+04/19/2023 12:10 AM,80,"Excessive noise from a house party on Elm St. is keeping the whole block awake.",Downtown,(555) 505-6060
+04/19/2023 12:25 AM,95,"Graffiti artists have been tagging the subway entrances. It's a bad look for the city.",Maple Grove,(555) 515-6161
+04/19/2023 12:40 AM,70,"I just stepped into a pothole on 9th Ave and sprained my ankle. This is a serious issue!",Westwood,(555) 525-6262
+04/19/2023 12:55 AM,65,"The noise from the late-night food truck gathering is too much. They need to move on.",Downtown,(555) 535-6363
+04/19/2023 01:10 AM,50,"Someone needs to address the potholes near the high school before a student gets hurt.",Westwood,(555) 545-6464
+04/19/2023 01:25 AM,130,"Every surface on Main Street is covered with graffiti. Can the city clean this up?",Lakeside,(555) 555-6565
+04/19/2023 01:40 AM,120,"The vandalism of the statues in Central Park is a disgrace. We need better security.",Oakwood,(555) 565-6666
+04/19/2023 01:55 AM,60,"Why hasn't the city done anything about the potholes on Oak Street?",Westwood,(555) 575-6767
+04/19/2023 02:10 AM,55,"There’s a car alarm that's been going off for an hour on Cedar Ave. It's disturbing the peace.",Downtown,(555) 585-6868
+04/19/2023 02:25 AM,80,"The skate park is full of graffiti. It's supposed to be a place for kids, not vandalism.",Maple Grove,(555) 595-6969
+04/19/2023 02:40 AM,90,"The potholes on Elm Drive are a safety hazard, especially at night.",Westwood,(555) 606-7070
+04/19/2023 02:55 AM,45,"The graffiti on the church walls is offensive and needs to be removed immediately.",Lakeside,(555) 616-7171
+04/19/2023 03:10 AM,70,"Loud music from cars at the beach parking lot is making it impossible to sleep.",Downtown,(555) 626-7272
+04/19/2023 03:25 AM,110,"The potholes on Willow Road are so large, they’re practically craters.",Westwood,(555) 636-7373
+04/19/2023 03:40 AM,105,"Can the city do something about the graffiti on the historic buildings downtown?",Eastview,(555) 646-7474
+04/19/2023 03:55 AM,50,"This loud party on Birch St. has been going on every weekend. It's disturbing the peace.",Downtown,(555) 656-7575
+04/19/2023 04:10 AM,95,"We need urgent repairs on the potholes along Rose Avenue.",Westwood,(555) 666-7676
+04/19/2023 08:10 AM,90,"The graffiti on the overpass is getting out of hand. It's everywhere!",Lakeside,(555) 203-3041
+04/19/2023 08:15 AM,105,"Loud construction noises at dawn again. Don't they have a schedule?",Downtown,(555) 204-3052
+04/19/2023 08:20 AM,75,"Massive pothole on 5th Avenue. My scooter nearly flipped.",Westwood,(555) 205-3063
+04/19/2023 08:25 AM,60,"Vandalism at the corner store. They broke the sign and spray-painted the walls.",Eastview,(555) 206-3074
+04/19/2023 08:30 AM,85,"There's graffiti covering the new billboards on Highway 22.",Maple Grove,(555) 207-3085
+04/19/2023 08:35 AM,55,"The potholes on Main are back. It's like a recurring nightmare!",Westwood,(555) 208-3096
+04/19/2023 08:40 AM,100,"The playground has been tagged again. We just had it cleaned up.",Sunnyside,(555) 209-3107
+04/19/2023 08:45 AM,45,"I can hear loud music from the night club, even in the morning!",Downtown,(555) 210-3118
+04/19/2023 08:50 AM,110,"Someone's dumped their old furniture in the alley. There's a couch blocking the path.",Oakwood,(555) 211-3129
+04/19/2023 08:55 AM,80,"Potholes are making Cedar Lane impassable. It's damaging cars.",Westwood,(555) 212-3130
+04/19/2023 09:00 AM,130,"Graffiti on the bridge is full of offensive language. Can someone clean it?",Lakeside,(555) 213-3141
+04/19/2023 09:05 AM,70,"The noise from the early trash pickup is waking up the whole block.",Downtown,(555) 214-3152
+04/19/2023 09:10 AM,120,"There's a massive pothole on Grove Street, right at the intersection.",Westwood,(555) 215-3163
+04/19/2023 09:15 AM,90,"They've vandalized the bus shelter on 3rd, glass is shattered everywhere.",Pinecrest,(555) 216-3174
+04/19/2023 09:20 AM,65,"Graffiti has been sprayed all over the new art installation downtown.",Maple Grove,(555) 217-3185
+04/19/2023 09:25 AM,50,"Can you address the potholes near the library? They're a hazard.",Westwood,(555) 218-3196
+04/19/2023 09:30 AM,75,"The noise from the high school band practice is extremely loud today.",Oakwood,(555) 219-3207
+04/19/2023 09:35 AM,110,"Potholes on Pine Street are so deep, you could lose a wheel in there.",Westwood,(555) 220-3218
+04/19/2023 09:40 AM,60,"More graffiti showed up overnight on the walls of the underpass.",Lakeside,(555) 221-3229
+04/19/2023 09:45 AM,85,"Every morning, the noise from the market setup is just too much.",Downtown,(555) 222-3230
+04/19/2023 09:50 AM,95,"Someone's tagged the entire row of shops on High Street.",Maple Grove,(555) 223-3241
+04/19/2023 09:55 AM,40,"Pothole alert on Birch: It's like
+ a sinkhole now.",Westwood,(555) 224-3252
+04/19/2023 10:00 AM,100,"The new graffiti on the community center is a disgrace.",Sunnyside,(555) 225-3263
+04/19/2023 10:05 AM,50,"The noise from the dog park is non-stop. Can something be done?",Oakwood,(555) 226-3274
+04/19/2023 10:10 AM,110,"We need repairs on Willow Road. The street's falling apart.",Westwood,(555) 227-3285
+04/19/2023 10:15 AM,70,"This new graffiti is an eyesore on the community murals.",Lakeside,(555) 228-3296
+04/19/2023 10:20 AM,55,"I'm reporting a pothole at the corner of 6th and Oak. It's a tire-buster.",Westwood,(555) 229-3307
+04/19/2023 10:25 AM,105,"There’s a constant noise from the factory, even outside normal hours.",Downtown,(555) 230-3318
+04/19/2023 10:30 AM,85,"Graffiti on the elementary school is setting a bad example for kids.",Maple Grove,(555) 231-3329
+04/19/2023 10:35 AM,60,"The potholes on Maple Drive are getting worse every day.",Westwood,(555) 232-3330
+04/19/2023 10:40 AM,90,"Vandalism in the public restrooms at the park is becoming a serious issue.",Eastview,(555) 233-3341
+04/19/2023 10:45 AM,120,"Potholes on 7th have caused numerous flat tires this week.",Westwood,(555) 234-3352
+04/19/2023 10:50 AM,65,"The graffiti on the statues in Central Park is disrespectful.",Sunnyside,(555) 235-3363
+04/19/2023 10:55 AM,80,"Loud music from cars at the beach parking lot is unbearable.",Lakeside,(555) 236-3374
+04/19/2023 11:00 AM,50,"Can we get the streetlights fixed? Vandalism has left the block dark.",Oakwood,(555) 237-3385
+04/19/2023 11:05 AM,95,"Pothole on Orchard Road is so large it's become a traffic hazard.",Westwood,(555) 238-3396
+04/19/2023 11:10 AM,110,"New graffiti tags appeared on the bridge by the riverwalk.",Lakeside,(555) 239-3407
+04/19/2023 11:15 AM,45,"The noise from the bar on Elm is well above what's legal.",Downtown,(555) 240-3418
+04/19/2023 11:20 AM,130,"Potholes on West Avenue are a danger to cyclists and pedestrians alike.",Westwood,(555) 241-3429
+04/19/2023 11:25 AM,70,"Someone defaced the war monument with spray paint.",Maple Grove,(555) 242-3430
+04/19/2023 11:30 AM,85,"The noise from the weekend market setup is disrupting the neighborhood peace.",Downtown,(555) 243-3441
+04/19/2023 11:35 AM,100,"A pothole on Cedar Street caused a bike accident this morning.",Westwood,(555) 244-3452
+04/19/2023 11:40 AM,55,"Graffiti has ruined the view from the footbridge.",Lakeside,(555) 245-3463
+04/19/2023 11:45 AM,75,"The street repairs on Pine have been unfinished for weeks. When will it end?",Westwood,(555) 246-3474
+04/19/2023 11:50 AM,110,"Vandalism at the old mill is getting worse. It's an eyesore.",Eastview,(555) 247-3485
+04/19/2023 11:55 AM,65,"Loud music from the festival is disrupting businesses.",Downtown,(555) 248-3496
+04/19/2023 12:00 PM,120,"Potholes on Rose Avenue are deep enough to cause accidents.",Westwood,(555) 249-3507
+04/19/2023 12:05 PM,80,"Graffiti on the new public art piece is a shame.",Sunnyside,(555) 250-3518
+04/19/2023 12:10 PM,50,"The noise from the car alarms at the dealership is non-stop.",Downtown,(555) 251-3529
+04/19/2023 12:15 PM,95,"There's a pothole on Broadway that's been there for months.",Westwood,(555) 252-3530
